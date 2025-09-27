@@ -1,4 +1,4 @@
-Goal: The goal of this assignment is to take a complex new problem and formulate and solve it 
+Goal: The goal of this project is to take a complex new problem and formulate and solve it 
 as search. Formulation as search is an integral skill of AI that will come in handy whenever you 
 are faced with a new problem.  Heuristic search will allow you to find optimal solutions.  Local 
 search may not find the optimal solution, but is usually able to find good solutions for really large 
@@ -29,7 +29,7 @@ exceed a given DMax.
 Each trip costs F + alpha*distance. Here F is the fixed cost per trip (for takeoff and landing). And 
 alpha represents some notion of fuel efficiency. 
 Total value of solution = Total value achieved – total trip cost. 
-The goal of the assignment to produce a plan for each helicopter, such that the total value is 
+The goal of the project to produce a plan for each helicopter, such that the total value is 
 maximized. How many trips they do. How many total packages of each type they start with per 
 trip. Which villages do they visit and in what order. How many packages of each type do they 
 drop per village. 
